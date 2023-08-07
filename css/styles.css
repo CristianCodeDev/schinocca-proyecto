@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-shop-cart {
+    width: 30px;
+    height: 30px;
+}
+
+.li-item {
+    list-style: none;
+}
+
+.img-products {
+    width: 286px;
+    height: 286px;
+}
+ 
+/*card del carrito de compras*/
+
+.img-shop-product {
+    width: 100px;
+    height: 100px;
+}
